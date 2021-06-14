@@ -1,0 +1,2 @@
+#GITHUB EGİTİMİ
+BT gtu 2020
